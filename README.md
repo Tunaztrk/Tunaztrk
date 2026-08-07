@@ -40,7 +40,7 @@ A complete **MATLAB implementation** of a discrete-time baseband communication s
 
 **Focus:** Telecommunications • MATLAB • Digital Signal Processing
 
-➡ View Repository
+➡ [View Repository](https://github.com/Tunaztrk/digital-communication-system/tree/main)
 
 ---
 
