@@ -51,4 +51,4 @@ A **Flask-based monitoring platform** for real-time EEG visualization and monito
 
 **Focus:** Real-Time Visualization • Flask • Distributed Systems
 
-➡ View Repository
+➡ [View Repository](https://github.com/Tunaztrk/real-time-bci-monitoring-dashboard)
