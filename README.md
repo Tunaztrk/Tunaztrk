@@ -49,6 +49,6 @@ A modular **ROS2-based EEG processing framework** for Brain-Computer Interface a
 
 A **Flask-based monitoring platform** for real-time EEG visualization and monitoring distributed Brain-Computer Interface processing pipelines through PSD analysis and hardware-independent validation tools.
 
-**Focus:** Real-Time Visualization • Flask • Distributed Systems
+**Focus:** Real-Time Visualization • FastAPI • Distributed Systems
 
 ➡ [View Repository](https://github.com/Tunaztrk/real-time-bci-monitoring-dashboard)
