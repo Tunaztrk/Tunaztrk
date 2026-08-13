@@ -50,7 +50,7 @@ A modular **ROS2-based EEG processing framework** for Brain-Computer Interface a
 
 **Focus:** Brain-Computer Interfaces • ROS2 • Real-Time Signal Processing
 
-➡ View Repository
+➡ [View Repository](https://github.com/Tunaztrk/real-time-eeg-processing-pipeline)
 
 ---
 
