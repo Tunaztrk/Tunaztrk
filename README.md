@@ -28,6 +28,17 @@ My current areas of interest include:
 
 ## Featured Projects
 
+### Drone Propeller Icing Forecasting
+
+A **Python/PyTorch prototype** combining a recurrent **Spiking Neural Network**
+for 10-second motor-current forecasting with a **GRU ensemble** for ice-area
+estimation. The system uses telemetry history and delayed online adaptation
+to provide threshold-based warnings for potential icing hazards.
+
+**Focus:** Neuromorphic Computing · Time-Series Forecasting · PyTorch · UAV Icing
+
+➜ [View Repository](https://github.com/Tunaztrk/munich-neuromorphic-hackathon-airbus-challenge-drone-propeller-icing)
+
 ### 📡 Digital Communication System Design and Simulation
 
 A complete **MATLAB implementation** of a discrete-time baseband communication system, implementing an end-to-end transmitter–receiver chain without relying on communication toolboxes.
