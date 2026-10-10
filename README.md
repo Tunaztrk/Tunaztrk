@@ -28,7 +28,7 @@ My current areas of interest include:
 
 ## Featured Projects
 
-### Drone Propeller Icing Forecasting
+### 🛩️ Drone Propeller Icing Forecasting
 
 A **Python/PyTorch prototype** combining a recurrent **Spiking Neural Network**
 for 10-second motor-current forecasting with a **GRU ensemble** for ice-area
