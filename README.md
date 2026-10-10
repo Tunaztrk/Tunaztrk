@@ -8,7 +8,7 @@ My work focuses on designing modular software and communication systems that bri
 
 ## About Me
 
-Across my projects in digital communications and Brain-Computer Interfaces (BCI), I enjoy translating research and theory into complete engineering solutions—from system architecture and modular software design to implementation, validation and performance evaluation.
+Across my projects in forecasting with recurrent spiking neural networks, digital communications and Brain-Computer Interfaces (BCI), I enjoy translating research and theory into complete engineering solutions—from system architecture and modular software design to implementation, validation and performance evaluation.
 
 I believe that engineering value comes not only from implementing existing ideas, but from understanding how they work, evaluating alternative implementation approaches and continuously refining them through practice. This approach drives my interest in research and development, where learning, experimentation and practical implementation go hand in hand.
 
@@ -28,7 +28,7 @@ My current areas of interest include:
 
 ## Featured Projects
 
-### 🛩️ Drone Propeller Icing Forecasting
+### 🛩️ Drone Propeller Icing Forecasting - Munich Neuromorphic Hackathon Airbus Challenge 
 
 A **Python/PyTorch prototype** combining a recurrent **Spiking Neural Network**
 for 10-second motor-current forecasting with a **GRU ensemble** for ice-area
