@@ -37,7 +37,7 @@ to provide threshold-based warnings for potential icing hazards.
 
 **Focus:** Neuromorphic Computing · Time-Series Forecasting · PyTorch · UAV Icing
 
-➜ [View Repository](https://github.com/Tunaztrk/munich-neuromorphic-hackathon-airbus-challenge-drone-propeller-icing)
+➡ [View Repository](https://github.com/Tunaztrk/munich-neuromorphic-hackathon-airbus-challenge-drone-propeller-icing)
 
 ### 📡 Digital Communication System Design and Simulation
 
